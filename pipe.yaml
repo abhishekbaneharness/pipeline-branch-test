@@ -1,6 +1,6 @@
 pipeline:
-  name: pipe
-  identifier: pipe
+  name: pipeYaml
+  identifier: pipeYaml
   projectIdentifier: project
   orgIdentifier: default
   tags: {}
