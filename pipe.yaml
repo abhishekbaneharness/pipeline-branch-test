@@ -1,7 +1,7 @@
 pipeline:
   name: pipeYaml
   identifier: pipeYaml
-  projectIdentifier: project
+  projectIdentifier: defProject
   orgIdentifier: default
   tags: {}
   stages:
