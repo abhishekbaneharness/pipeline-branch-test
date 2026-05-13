@@ -49,5 +49,8 @@ pipeline:
                         script: echo "stage9"
                     environmentVariables: []
                     outputVariables: []
+                    outputAlias:
+                      key: <+input>
+                      scope: Pipeline
                   timeout: 10m
         tags: {}
